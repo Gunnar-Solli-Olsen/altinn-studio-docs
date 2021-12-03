@@ -9,13 +9,13 @@ aliases:
 
 ## How is the architecture documented?
 The [non functional and functional requirements](requirements) have given input to which devops and runtime [capabilities](capabilities) 
-that is needed in the solutions. It also have given input which type of [components](components) that is needed to implement the capabilities.
+that are needed in the solutions. It also have given input which type of [components](components) that are needed to implement the capabilities.
 
-The [Architecture Principles](principles) and [Architecture Patterns](patterns) has been
+The [Architectural Principles](principles) and [Architectural Patterns](patterns) have been
 decided based on requirements and other goals with the new solutions.
-The Principles and patterns has been deciding factors how the [components](components) implements the [capabilities](capabilities) needed.
+These Principles and patterns have been deciding factors in how the [components](components) implement the required [capabilities](capabilities).
 
-The diagram below show the relationships and you can **click the elements** to read more about each architecture artifact or select in menu or section below diagram. 
+The diagram below shows the relationships and you can **click the elements** to read more about each architectural artifact, or select one in the menu below the diagram.
 
 <object data="/technology/architecture/architecture_decision_relationship.svg" type="image/svg+xml" style="width: 100%;"></object>
 
