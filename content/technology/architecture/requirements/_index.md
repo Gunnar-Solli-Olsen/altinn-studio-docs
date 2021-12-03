@@ -8,6 +8,6 @@ aliases:
 - /teknologi/altinnstudio/architecture/requirements/
 ---
 
-They are important input to deciding which cababilities required and they also is important input to the Architecture Principles and Architecture Patterns. 
+They are an important input to deciding which cababilities required and they are also an important input to the Architectural Principles and Architectural Patterns. 
 
 {{% children description="true" depth="1" %}}
